@@ -1,7 +1,7 @@
-# Expense Tracker Application
+# Expense Tracker
 
 ## Overview
-The **Expense Tracker Application** is a desktop-based application that helps users manage and track their daily expenses. Users can add, view, and delete expense records through an intuitive and visually appealing graphical interface. This application is built with **PyQt6** for the user interface and **SQLite** for database management, making it lightweight and efficient.
+This **Expense Tracker** is a desktop-based application that helps users manage and track their daily expenses. Users can add, view, and delete expense records through an intuitive and visually appealing graphical interface. This application is built with **PyQt6** for the user interface and **SQLite** for database management, making it lightweight and efficient.
 
 ## Features
 - **Add Expenses**: Record expenses with details such as date, category, amount, and description.
